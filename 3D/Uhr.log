@@ -1,0 +1,34 @@
+Solid Edge translation to FBX
+Date: Thursday,May 26,2022 08:04PM
+Output File: C:\Users\neuma\Documents\GitHub\SoftSkill_Gruppe13\3D\Uhr.fbx
+Author: Unknown
+Organization: Unknown
+Source System: SOLID EDGE
+
+Hardware:
+Processor: AMD Ryzen 7 2700X Eight-Core Processor         
+Operating System: Windows 10 Professional
+Installed Memory: 31.92 GB
+
+Software Information:
+Parasolid Version: 34.0.153
+PSBodyshop Version: 34.0.110
+FBX Adapter Version: 9.0.94
+Solid Edge Version: 222.00.00.132 x64
+
+FBX Export Options:
+Export Construction Solids:Off
+Export Displayed Parts:Off
+Export Construction Sheets:Off
+Enable Logging:On
+Export Textures:Off
+Export Flatten Assembly:On
+Export Construction Solids and Sheets if design bodies not present:Off
+Export Units:Centimeters
+Export Tolerance Value:1.250000
+Export Tolerance Type:Custom
+Export Surface Plane Angle Value:0.523599
+
+Translation progress:
+Translation process completed
+Time required to translate:00 : 00 : 00
