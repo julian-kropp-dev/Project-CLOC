@@ -1,11 +1,3 @@
-//Dear Programmer:
-//When we wrote this code, only god and we knew how it worked.
-//Now, only god knows!
-
-//Therefore, if you are trying to optimize it and you fail (most surely),
-//please increase this counter as a warning for the next person:
-
-//total_hours_wasted_time = 42
 
 // Libraries
 #include <ESP8266WiFi.h>        // Bibliothek, um ESP8266 mit einem Wifi-Netzwerk zu verbinden
